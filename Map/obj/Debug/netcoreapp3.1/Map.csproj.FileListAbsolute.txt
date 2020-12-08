@@ -1,0 +1,13 @@
+E:\Projects\Visual Studio\C#\Map\Map\bin\Debug\netcoreapp3.1\Map.exe
+E:\Projects\Visual Studio\C#\Map\Map\bin\Debug\netcoreapp3.1\Map.deps.json
+E:\Projects\Visual Studio\C#\Map\Map\bin\Debug\netcoreapp3.1\Map.runtimeconfig.json
+E:\Projects\Visual Studio\C#\Map\Map\bin\Debug\netcoreapp3.1\Map.runtimeconfig.dev.json
+E:\Projects\Visual Studio\C#\Map\Map\bin\Debug\netcoreapp3.1\Map.dll
+E:\Projects\Visual Studio\C#\Map\Map\bin\Debug\netcoreapp3.1\Map.pdb
+E:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.csprojAssemblyReference.cache
+E:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.AssemblyInfoInputs.cache
+E:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.AssemblyInfo.cs
+E:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.dll
+E:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.pdb
+E:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.genruntimeconfig.cache
