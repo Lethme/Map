@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Visual Studio\\C#\\Map\\Map\\Map.csproj": {}
+    "X:\\Projects\\Visual Studio\\C#\\Map\\Map\\Map.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Visual Studio\\C#\\Map\\Map\\Map.csproj": {
+    "X:\\Projects\\Visual Studio\\C#\\Map\\Map\\Map.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Visual Studio\\C#\\Map\\Map\\Map.csproj",
+        "projectUniqueName": "X:\\Projects\\Visual Studio\\C#\\Map\\Map\\Map.csproj",
         "projectName": "Map",
-        "projectPath": "E:\\Projects\\Visual Studio\\C#\\Map\\Map\\Map.csproj",
+        "projectPath": "X:\\Projects\\Visual Studio\\C#\\Map\\Map\\Map.csproj",
         "packagesPath": "C:\\Users\\Saya\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Visual Studio\\C#\\Map\\Map\\obj\\",
+        "outputPath": "X:\\Projects\\Visual Studio\\C#\\Map\\Map\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\Saya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -31,7 +30,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -43,7 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
@@ -65,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
