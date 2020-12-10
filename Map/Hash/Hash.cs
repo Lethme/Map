@@ -40,8 +40,8 @@ namespace Map.Hash
         {
             if (obj == null) throw new ArgumentNullException(nameof(obj));
 
-            using var sha256 = SHA256.Create();
-            var result = sha256.ComputeHash(Encoding.Default.GetBytes(JsonConvert.SerializeObject(obj)));
+            using var sha512 = SHA512.Create();
+            var result = sha512.ComputeHash(Encoding.Default.GetBytes(JsonConvert.SerializeObject(obj)));
             return BitConverter.ToString(result).Replace("-", String.Empty).ToLower();
         }
         public static Hash Create() => new Hash();
