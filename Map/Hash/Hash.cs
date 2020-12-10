@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 namespace Map.Hash
 {
 #nullable enable
-    public class Hash : IEquatable<Hash>
+    public class Hash : IEquatable<Hash>, IComparable<Hash>
     {
         public String Data { get; private set; } = String.Empty;
         public Hash() {  }
@@ -29,6 +29,10 @@ namespace Map.Hash
         public bool Equals(Hash? other)
         {
             return this.Data.Equals(other.Data);
+        }
+        public int CompareTo(Hash? other)
+        {
+            return this.Data.CompareTo(other.Data);
         }
         public override string ToString() => this.Data;
         public static bool operator ==(Hash hash, object obj) => hash.Equals(obj);
