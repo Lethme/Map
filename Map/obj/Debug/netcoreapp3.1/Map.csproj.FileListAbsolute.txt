@@ -24,3 +24,5 @@ X:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.csproj.CoreComp
 X:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.dll
 X:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.pdb
 X:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.genruntimeconfig.cache
+E:\Projects\Visual Studio\C#\Map\Map\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\Visual Studio\C#\Map\Map\obj\Debug\netcoreapp3.1\Map.csproj.CopyComplete

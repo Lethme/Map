@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9P9lijyKvyL6u7lDqbM69VlrHuJyR5i/Jb6eNKZ/km+QTfHSyDU+0NWaxCL1vMhAaaOMtH+mmsV/JQ+K9ZiLQA==",
+  "dgSpecHash": "9UVMPE7CZGITd4jGrIv0TuTl45PhGNIh7rRppHJs3UlVdf3N7960+9KoZVn76Y/NjN41733+Ug4AssMkyZv3jw==",
   "success": true,
-  "projectFilePath": "X:\\Projects\\Visual Studio\\C#\\Map\\Map\\Map.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Projects\\Visual Studio\\C#\\Map\\Map\\Map.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saya\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
